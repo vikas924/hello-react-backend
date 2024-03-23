@@ -46,7 +46,7 @@ Key features of the application.
 
 ### Frontend:
 
-[>>> Front End Repo URL <<<]()
+[>>> Front End Repo URL <<<](https://github.com/vikas924/hello-react-frontend/tree/feature)
 
 <!-- LIVE DEMO -->
 
@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  gh repo clone
+  gh repo clone git@github.com:vikas924/hello-react-backend.git
 ```
 
 ### Install
@@ -83,6 +83,14 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Vikas Chib**
+
+- GitHub: [@vikas924](https://github.com/vikas924)
+- Twitter: [@vikas410190](https://twitter.com/vikas410190)
+- LinkedIn: [Vikas Singh](https://www.linkedin.com/in/vikas-singh-586a07132/)
 
 <br><br>
 
